@@ -11,24 +11,6 @@
 
 </div>
 
-```python
-class Manoel:
-    def __init__(self):
-        self.name     = "Manoel Carlos Vieira"
-        self.school   = "CESAR School"
-        self.course   = "Computer Science"
-        self.goal     = "Becoming a great Software Engineer"
-        self.learning = ["Python", "JavaScript", "C++"]
-        self.mindset  = "Curious, consistent and always building something new"
-        self.mood     = "❄️ cold nights, warm code"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Feel free to explore my repos. 🐺")
-
-me = Manoel()
-me.say_hi()
-```
-
 <div align="center">
 
 <img src="mcv-title-tech_3.svg" alt="Tech Stack" width="70%" />
